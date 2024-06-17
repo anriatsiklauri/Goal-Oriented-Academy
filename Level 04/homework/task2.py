@@ -6,5 +6,5 @@ surname = "tsiklauri"
 age = "9"
 my_hobby = "simgera da dakvra"
 country = "georgia"
-print(name + " " + surname + " " + age + " " + my_hobby + " " + country) #ბრჭყალები გვჭირდება 
+print(name + " " + surname + " " + age + " " + my_hobby + " " + country) #ბრჭყალები გვჭირდება იმისთვის რომ დაშორებულათ და ლამაზად იყოს
 
